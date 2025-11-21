@@ -8,11 +8,17 @@ We used Windows as our platform.
 
 ### Section 2: Map of Documentation
 Folder: DATA
+- Link_to_Data
+- full_metadata.csv
   
 Folder: SCRIPTS
-
+- Image_Preprocessing.ipynb
+- Project3_EDA1.ipynb
+- modeltrain-analysis.ipynb
 
 Folder: OUTPUT
+- confusion_matrix.png
+- model-eval.png
 
 LICENSE<br>
 README.md
