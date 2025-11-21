@@ -2,8 +2,8 @@
 This contains the material for DS 4002 Project 3
 
 ## Section 1: Software and Platform Selection
-We used the Python language for all analysis and it was run on a local enviroment through Anacdonda and the code was wrote in VS code.
-For additional software we imported the python packages pandas, numpy, and json.
+We used the Python language for all analysis and it was run through UVA's Rivanna computer.
+For additional software we imported the python packages pandas, tensorflow, and matplotlib.
 We used Windows as our platform.
 
 ### Section 2: Map of Documentation
